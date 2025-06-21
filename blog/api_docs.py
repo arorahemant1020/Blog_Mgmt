@@ -20,10 +20,10 @@ def api_documentation(request):
             "Users": {
                 "GET /users/": "List all users",
                 "GET /users/{id}/": "Get user by ID",
-                # "GET /users/profile/": "Get current user profile",
-                # "PUT /users/profile/": "Update current user profile",
-                # "POST /users/profile/update/": "Update profile (alternative)",
-                # "POST /users/change-password/": "Change password",
+                "GET /users/profile/": "Get current user profile",
+                "PUT /users/profile/": "Update current user profile",
+                "POST /users/profile/update/": "Update profile (alternative)",
+                "POST /users/change-password/": "Change password",
                 "GET /users/authors/": "List all authors",
             },
             "Blog Posts": {
