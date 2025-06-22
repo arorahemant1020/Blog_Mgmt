@@ -2,7 +2,7 @@
 
 A complete REST API for a blogging platform built with Django, featuring user management, JWT authentication, real-time updates with WebSockets, and comprehensive blog functionality.
 
-## 🚀 Features
+## 🚀Features
 
 - **User Management**: Registration, authentication, and role-based permissions
 - **Blog Posts**: Create, read, update, delete blog posts with rich content
